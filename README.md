@@ -4,4 +4,4 @@ fonte: https://www.instagram.com/cssdoodler/
 
 Este projeto tirei de fotos de código do instagram de qm eu sigo.
 
-link do site: 
+link do site: https://devosvaldo2020.github.io/projeto-gerador-QRCode/
